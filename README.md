@@ -4,7 +4,7 @@ Análisis de Datos 2026-1 (190304018-1) | Entrega 2: Exploración de diferentes 
 
 Integrantes del equipo:
 
-Mariana Villegas Ochoa
-Melisa Colorado Soto
-Jaider Santiago Villa David
-Hernán Darío Flórez Martínez
+- Mariana Villegas Ochoa
+- Melisa Colorado Soto
+- Jaider Santiago Villa David
+- Hernán Darío Flórez Martínez
